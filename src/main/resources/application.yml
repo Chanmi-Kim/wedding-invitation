@@ -1,0 +1,17 @@
+# 로그 설정
+logging.level:
+  org.springframework: INFO
+  com.neowiz: DEBUG
+
+#Pebble
+pebble:
+  enabled: true
+  prefix: /templates/
+  suffix: .html
+  cache: false
+  contentType: text/html
+  encoding: UTF-8
+  exposeRequestAttributes: false
+  exposeSessionAttributes: false
+  defaultLocale: ko_KR
+  strictVariables: false
