@@ -1,4 +1,4 @@
-package com.devchanmi.wedding.invitation;
+package com.devchanmi.wedding.application.invitation;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
